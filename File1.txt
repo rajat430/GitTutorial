@@ -1,0 +1,4 @@
+Hi this file is 1
+added second line after adding in staging area
+confusion1
+confusion2 
