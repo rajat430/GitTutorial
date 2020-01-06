@@ -6,6 +6,3 @@ user2 added some codes
 code1
 code2
 code3
-user3 added some code
-code1
-code2
