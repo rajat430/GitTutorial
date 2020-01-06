@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 user1 added some code
 code1
 code2
 code3
+=======
+user 2 added one line code code1
+>>>>>>> 2f761c8befde411c9212e6bece77577cb37f47f8
