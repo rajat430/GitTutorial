@@ -1,4 +1,8 @@
 Hi this file is 1
 added second line after adding in staging area
 confusion1
-confusion2 
+confusion2
+user2 added some codes
+code1
+code2
+code3
