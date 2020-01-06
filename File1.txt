@@ -6,5 +6,3 @@ user2 added some codes
 code1
 code2
 code3
-
-i added some code after pooling the code
